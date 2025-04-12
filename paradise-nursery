@@ -1,0 +1,16 @@
+paradise-nursery/
+├── index.html
+├── products.html
+├── cart.html
+├── styles.css
+├── products.js
+├── cart.js
+├── cart-page.js
+└── images/
+    ├── background.jpg (your landing page background)
+    ├── monstera.jpg
+    ├── snake-plant.jpg
+    ├── pothos.jpg
+    ├── fiddle-leaf.jpg
+    ├── cactus.jpg
+    └── ... (other plant images)
